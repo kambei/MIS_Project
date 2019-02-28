@@ -1,0 +1,50 @@
+[Diagram:]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=1
+
+[Box:  - ::centers]
+X=635
+Y=40
+
+[Box:  - ::commons]
+X=225
+Y=40
+
+[Box:  - ::generators]
+X=430
+Y=40
+
+[Box:  - ::gui]
+X=20
+Y=40
+
+[Diagram:]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=0
+
+[Box: ::centers - ::centers::CPUClient_Centre]
+X=635
+Y=40
+
+[Box: ::centers - ::centers::IS_Centre]
+X=20
+Y=40
+
+[Box: ::centers - ::centers::Queueing_Centre]
+X=430
+Y=40
+
+[Box: ::centers - ::centers::TERM_Centre]
+X=225
+Y=40
+
+[Diagram: ::centers]
+OffsetX=0
+OffsetY=18
+Visibility=0
+ShowAssoc=1
+

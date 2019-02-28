@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Jan 23 13:50:53 CET 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=MIS_executable.jar
+manifest.mergeall=true
+manifest.mainclass=commons.Simulation
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
